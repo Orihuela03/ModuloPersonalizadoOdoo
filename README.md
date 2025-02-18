@@ -1,4 +1,4 @@
-![imagen](https://github.com/user-attachments/assets/88558928-ec95-4dbb-b095-e0783d06a65d)**Modelos**
+**Modelos**
 
 ContractingCompany:
 
